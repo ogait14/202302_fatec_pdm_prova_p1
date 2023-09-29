@@ -3,7 +3,7 @@ import 'dart:io'; //import da biblioteca io para permitir a entrada e captura de
 
 void main() {
   // Imprime uma linha de asteriscos para fins de formatação.
-  print("\n***********************************************************");
+  //print("\n***********************************************************");
   // Imprime uma mensagem de boas-vindas no console.
   print('---->Bem-vindo ao Jogo!<----\n');
   // Declara uma variável booleana para controlar se o jogo deve ser jogado novamente.
